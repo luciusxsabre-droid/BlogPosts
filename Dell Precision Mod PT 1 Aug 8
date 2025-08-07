@@ -1,0 +1,57 @@
+Rebuilding a Dell precision T5600 part 1
+
+So I want to start at the beginning. 
+So I started with the teardown this involved doing the steps as followed.
+
+- Remove the mainboard - there was lots of screws and to even get access to them, well some of them
+even the cpu heatsinks had to be removed. So what started of all this.
+
+HOW IT STARTED
+
+Well my dell precision posted but always continued to hit a 1 2 3 lit up. Via the troubleshooting lights at the front of the unit. 
+I think the system would boot but not into a OS which is what sparked this project to begin with, now that you have the context.
+Back to the tear down.
+
+THE BREAKOUT BOARD
+
+- so now that the mainboard is out it is time to remove all other components. such as fan cages unecessary wires. etc
+then it was time to remove the breakout board which I could not remove via unscrewing so I had to crack this open
+with a flathead which allowed me to pop out the breakout board.
+
+the cables were all disconnected from the breakout upon removal. 
+
+Now where from here ...
+
+After test fitting components I am in a prime postion to rebuild the unit.
+
+ENTER THE X99 COMPONENTS 
+
+Now it is time to drop X99 Components into this build but before this we need to mod and prep the case.
+
+I have bought some electrical tape to cover the metal area where the mainboard will be screwed into
+I am doing this to cover off the standoffs that do not align with the standard mounting holes.
+so doing this will stop any potential shorting out in theory and yes this will be done in layers.
+
+Now I will wait for these components to arrive and then part 2 will posted.
+
+but wait call now, there is more . . . 
+
+Using avation snips I am going to remove the PSU Cage. Then carefully tape the edges to stop potential cuts.
+
+PARTS USED FOR THIS UPGRADE / SLEEPER BUILD
+- FSP VITA 850W
+- X99 MOTHERBOARD DUAL SOCKET WITH E5 2680 V4
+- AMD RADEON GCN 1.0 R9 270X
+- 32 GB DDR4 ECC I HAVE ON HAND (TESTING ONLY)
+- CRUCIAL 500GB NVME DRIVE 
+- COOLER MASTER T20 X 2 (MAY UPGRADE LATER IDK)
+- OS LINUX MINT XIA (PROBABLY)
+
+I will post a imgur gallery in part 2 as well
+
+but here is a imgur gallery of some of the teardown -> https://imgur.com/a/pd2kRw7
+
+well this is the first part, stay tuned for part 2
+
+thank you and until next time
+bye
