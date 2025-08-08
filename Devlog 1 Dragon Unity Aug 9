@@ -1,0 +1,45 @@
+Hello, everyone so in this episode I will be talking about the development cycle for 
+a game I had made back in 2021, which when the development physically started.
+
+So before I started my vocational qualification, I was developing a nordic style
+JRPG Like game on my ASUS Laptop. (I was using a TUF FX 405 or something like that).
+This was back when I religously used UE4 to make stuff in it.
+
+The game would start off with you being locked in a cold, dark cell. Where upon
+awakening you had to escape and find your way out of the prison. On your way
+you would encounter Draugr guards that you would have to kill. 
+
+You would get to the courtyard and find the main weapon you would use in the game.
+The Jotunbane a sword that emanated ice elemental energy.
+
+You would defeat waves of draugr and then get out into a small village. Where
+you headed to the first out of eight dungeons in this build. 
+
+Upon completing this dungeon, you would take a boat to a nearby city Sanheim. 
+Which would lead you to your next dungeon the Highwind Castle. There you would encounter 
+new enemies like Highwind Immortals and of course Valhalla Slammers. After getting
+to the Valhalla Gate, which you cannot access. You will return only to find 
+the Inn has been torched by a fire gigas which you will have to fight.
+
+Now with this game, one of its main flaws is I made it way too repetitive.
+As you were constantly engaging in the same loop, making the game get boring 
+at times. If I were to do this all over, I would space out the combat and make 
+more variety in terms of tasks inside each dungeon.
+
+While the combat did have some diversity (with the throwing axe you get later on and the magic)
+I would have made the underlying systems for that and the overall progression deeper. 
+
+Let me explain...
+
+Dragon Unity did have a decent starting point for a progression system which as you
+progressed through the game in a linear fashion your skill tree would progress along with you.
+On your journey.
+
+There were active and passive skills (passives did not really do anything and were there to simulate progression)
+
+Also there were un implemented ideas such as Valhalla which (Valhalla's Gate mentioned before) was a multiplayer zone/PVP Area. 
+Alongside a expansion called Winterstorm. Which featured two female protagonists Mitsui and Syra who were a part of the Winterseal guard.
+That is as far as I got with some sprites drawn and processed...
+
+Anyway I will talk more about other projects I have made, this is just a brief retrospective 
+thank you for reading :)
